@@ -1,13 +1,5 @@
 <!-- Antor Acs-->
-Antor Sarker<br/>
-ACS
 
----
-#Antor Sarker  
-##ACS  
-###chandra
-
----
 <p>Antor Sarker Acs , student of _mymensingh Engineering College_
 </p>  
 
